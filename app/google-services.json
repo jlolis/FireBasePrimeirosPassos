@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "990624506427",
+    "firebase_url": "https://primeirospassos-c8d58.firebaseio.com",
+    "project_id": "primeirospassos-c8d58",
+    "storage_bucket": "primeirospassos-c8d58.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:990624506427:android:5213e3b82dfc769e9c321e",
+        "android_client_info": {
+          "package_name": "com.example.joaoelolis.firebaseprimeirospassos"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "990624506427-krt4bpp2t08jpth4fj7g25ufvu2473ng.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.joaoelolis.firebaseprimeirospassos",
+            "certificate_hash": "6d1c005ec0b37f215b3fc626373a81629bac4c76"
+          }
+        },
+        {
+          "client_id": "990624506427-skqqkdpgp1kdti6bnvmuaf1ik6efvkt7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnEQMs2dxKGNmKXLf8X1b34nUVp-dYGLk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "990624506427-skqqkdpgp1kdti6bnvmuaf1ik6efvkt7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Fire Base 1º Passos</string>
+    <string name="btn_salvar">Salvar</string>
+    <string name="btn_apagar">Apagar</string>
+    <string name="nome">Nome</string>
+    <string name="idade">idade</string>
+    <string name="item_leitura">Leitura</string>
+</resources>
